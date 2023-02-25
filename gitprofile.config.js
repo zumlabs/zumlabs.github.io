@@ -72,9 +72,9 @@ const config = {
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
+      name: 'Software Engineering',
+      body: 'Revou Mini Course',
+      year: 'March 2023',
       link: 'https://example.com'
     },
   ],

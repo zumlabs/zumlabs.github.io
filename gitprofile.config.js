@@ -15,7 +15,7 @@ const config = {
     twitter: 'zums_developer',
     mastodon: '',
     facebook: '',
-    instagram: '',
+    instagram: 'qhorrzuma',
     dribbble: '',
     behance: '',
     medium: '',
@@ -33,10 +33,11 @@ const config = {
   },
   skills: [
     'PHP',
+    'MySQL',
     'Laravel',
     'JavaScript',
     'React.js',
-    'MySQL',
+    'Node.js',
     'Git',
   ],
   experiences: [

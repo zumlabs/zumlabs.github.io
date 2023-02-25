@@ -80,16 +80,10 @@ const config = {
   ], */
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
-    },
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'Universitas Terbuka',
+      degree: 'information Systems',
+      from: '2022',
+      to: '2025',
     },
   ],
 

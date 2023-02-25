@@ -74,7 +74,7 @@ const config = {
   education: [
     {
       institution: 'Universitas Terbuka',
-      degree: 'information Systems',
+      degree: 'Computer Science',
       from: '2022',
       to: '2025',
     },
@@ -83,10 +83,10 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'News Site',
+      title: 'Content Management Systems',
       description:
         'a news website using the open source wordpress which is being developed again to make it even better.',
-      imageUrl: '',
+      imageUrl: 'https://www.cryptozums.space/wp-content/uploads/2022/11/cropped-1668722046-picsayajsj.png',
       link: 'https://cryptozums.space',
     },
     {

@@ -85,7 +85,6 @@ const config = {
       from: '2022',
       to: '2025',
     },
-    
   ],
 
   // To hide the `My Projects` section, keep it empty.

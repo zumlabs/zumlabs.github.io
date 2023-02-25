@@ -85,6 +85,12 @@ const config = {
       from: '2022',
       to: '2025',
     },
+    {
+      institution: 'Institution Name',
+      degree: 'Degree',
+      from: '2012',
+      to: '2014',
+    },
   ],
 
   // To hide the `My Projects` section, keep it empty.
